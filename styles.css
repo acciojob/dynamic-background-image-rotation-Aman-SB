@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+body {
+      margin: 0;
+      overflow: hidden;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
